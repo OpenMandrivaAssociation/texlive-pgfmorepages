@@ -1,6 +1,6 @@
 Name:		texlive-pgfmorepages
 Version:	54770
-Release:	1
+Release:	2
 Summary:	Assemble multiple logical pages onto a physical page
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pgfmorepages
