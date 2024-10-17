@@ -3,7 +3,7 @@ Version:	54770
 Release:	2
 Summary:	Assemble multiple logical pages onto a physical page
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pgfmorepages
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pgfmorepages
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pgfmorepages.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pgfmorepages.doc.r%{version}.tar.xz
